@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Phu Hoang<br> have been building personal/professional web projects for more than 4 years. Currently, I am working as a freelancer for full-stack web development.<br><br>🌍  I'm based in Viet Nam<br>🖥️  See my portfolio at profile.coderweb.com<br>✉️  You can contact me at 11a8hoangkimquyphu@gmail.com<br>🤝  I'm open to collaborating on interesting projects
+Hi 👋 My name is Phu Hoang<br> have been building personal/professional web projects for more than 1 years. Currently, I am working as a freelancer for full-stack web development.<br><br>🌍  I'm based in Viet Nam<br>🖥️  See my portfolio at profile.coderweb.com<br>✉️  You can contact me at 11a8hoangkimquyphu@gmail.com<br>🤝  I'm open to collaborating on interesting projects
 
 
 ## 🌐 Socials:
